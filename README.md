@@ -1,8 +1,8 @@
 🪐 Projeto Solar-System<br>
-
-
-
-✏️ Esse projeto tem objetivo de: <br>
+<br><br>
+imagem.png
+<br><br>
+✏️ Esse projeto tem objetivo de: <br><br>
 ▫️Utilizar JSX no React;<br>
 ▫️Utilizar corretamente o método render()para renderizar seus componentes;<br>
 ▫️Utilizar importpara trazer componentes em diferentes arquivos;<br>
@@ -11,6 +11,6 @@
 ▫️Fazer uso de props corretamente;<br>
 ▫️Fazer uso Prop Types para validar como props de um componente.<br>
 <br>
-🔗️Links<br>
+🔗️Links<br><br>
 Github: https://github.com/carolhn <br>
 Linkedin: https://www.linkedin.com/in/caroline-nunes-769307240/
