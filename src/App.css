@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.header {
+  font-family: 'Righteous';
+  text-align: center;
+  color:rgb(97, 97, 97);
+}
+
+.header:hover {
+  color:rgb(196, 188, 188);
+}
+
+.headerTitle {
+  font-family: 'Righteous', cursive;
+  font-size: 60px;
+  margin: 1%;
+  color:rgb(170, 169, 169);
+}
+
+.classMission {
+  border: 1px gray solid;
+  border-radius: 10px;
+}
+
+body {
+  background-image: url('/src/images/background.png');
+  color:rgb(170, 169, 169);
+  font-family: Arial , Helvetica , sans-serif;
+  text-align: center;
+}
+
+.classCard {
+  display: flex;
+  filter: blur(1px);
+  flex-direction: column;
+  height: 160px;
+  margin: 30px;
+  width: 160px;
+}
+
+.name {
+  font-size: medium;
+  font-weight: 700;
+}
+
+.classMargin {
+  margin: 0;
+}
+
+.mission {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card {
+  align-content: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.image {
+  width: 100px;
+}
+
+.box {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+}
+
+.box:hover .image.Mercúrio {
+  width: 250px;
+}
+
+.box:hover .image.Vênus {
+  width: 250px;
+}
+
+.box:hover .image.Terra {
+  width: 250px;
+}
+
+.box:hover .image.Marte {
+  width: 250px;
+}
+
+.box:hover .image.Júpiter {
+  width: 250px;
+}
+
+.box:hover .image.Saturno {
+  width: 250px;
+}
+
+.box:hover .image.Urano {
+  width: 250px;
+}
+
+.box:hover .image.Netuno {
+  width: 250px;
+}
+
+.system {
+  align-items: center;
+  display: flex;
+  flex-flow: wrap row;
+  justify-content: center;
+  width: auto;
+}
+
+.title {
+  font-size: xx-large;
+
+}
+
+root {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.classCard:hover {
+  filter: blur();
+}
+
