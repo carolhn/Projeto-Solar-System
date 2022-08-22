@@ -25,3 +25,4 @@
 
 <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noreferrer noopener">Linkedin</a>
 
+<p>Acesse <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
