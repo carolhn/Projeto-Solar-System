@@ -1,7 +1,7 @@
 # 🪐 Projeto Solar-System
 
 
-![ texto](imagem.png)
+<img src="./home/carol/Github/Projeto_System_Solar/imagem.png">
 
 
 # ✏️ Esse projeto tem objetivo de:
