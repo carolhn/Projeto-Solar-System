@@ -19,8 +19,8 @@
 ▫️Fazer uso Prop Types para validar como props de um componente.<br>
 <br>
 
-# 🔗️ Links
+# 🔗️ Links:
 
-<p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a></p>
+<p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
-<p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noopener noreferrer">Linkedin</a></p>
+<p>Acesse: <a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noopener noreferrer">Linkedin</a>.</p>
