@@ -1,11 +1,10 @@
 # 🪐 Projeto Solar-System
 
-<img href="/carolhn/Projeto-Solar-System/blob/master/imagem.png" style="max-width: 90%;">
-
+<img src="/carolhn/Projeto-Solar-System/blob/master/imagem.png?raw=true" alt="imagem.png" style="max-width: 90%;">
 
 # ✏️ Esse projeto tem objetivo de:
-<summary><strong></strong></summary>
-▫️Utilizar JSX no React;<br>
+
+ ▫️Utilizar JSX no React;<br>
 
 ▫️Utilizar corretamente o método render()para renderizar seus componentes;<br>
 
@@ -24,3 +23,4 @@
 
 Github: https://github.com/carolhn <br>
 Linkedin: https://www.linkedin.com/in/caroline-nunes-769307240/
+
