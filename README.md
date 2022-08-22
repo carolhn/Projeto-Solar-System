@@ -21,7 +21,7 @@
 
 # 🔗️ Links
 
-<a href="https://github.com/carolhn" target="_blank">Github</a>
+<a href="https://github.com/carolhn" target="_blank" rel="noreferrer noopener">Github</a>
 
-<a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/caroline-nunes-769307240/" target="_blank" rel="noreferrer noopener">Linkedin</a>
 
