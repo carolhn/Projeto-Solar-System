@@ -1,6 +1,6 @@
 # 🪐 Projeto Solar-System
 
-<img src="/home/carol/Github/Projeto_System_Solar/imagem.png" style="max-width: 100%;">
+<img src="/carolhn/Projeto-Solar-System/imagem.png" style="max-width: 100%;">
 
 # ✏️ Esse projeto tem objetivo de:
   <summary><strong>✏️</strong></summary><br />
