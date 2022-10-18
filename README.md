@@ -1,8 +1,8 @@
-# 🪐 Projeto Solar-System
+## 🪐 Projeto Solar-System
 
 <img src="https://github.com/carolhn/Projeto-Solar-System/blob/master/imagem.png?raw=true" alt="imagem.png" style="max-width: 90%;">
 
-# ✏️  Esse projeto tem objetivo de:
+### ✏️  Esse projeto tem objetivo de:
 
  ▫️Utilizar JSX no React;<br>
 
@@ -19,7 +19,7 @@
 ▫️Fazer uso Prop Types para validar como props de um componente.<br>
 <br>
 
-# 🔗️ Links:
+### 🔗️ Links:
 
 <p>Acesse: <a href="https://github.com/carolhn" target="_blank" rel="noopener noreferrer">Github</a>.</p>
 
