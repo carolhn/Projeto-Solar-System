@@ -6,7 +6,7 @@
 
  ▫️Utilizar JSX no React;<br>
 
-▫️Utilizar corretamente o método render()para renderizar seus componentes;<br>
+▫️Utilizar corretamente o método render para renderizar seus componentes;<br>
 
 ▫️Utilizar importpara trazer componentes em diferentes arquivos;<br>
 
