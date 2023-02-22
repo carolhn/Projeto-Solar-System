@@ -11,20 +11,19 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 ## Habilidades:
 
- ▫️ Utilizar `JSX` no React
+*  Utilizar `JSX` no React
 
-▫️ Utilizar corretamente o método `render()` para renderizar seus componentes
+* Utilizar corretamente o método `render()` para renderizar seus componentes
 
-▫️ Utilizar `import` para trazer componentes em diferentes arquivos
+* Utilizar `import` para trazer componentes em diferentes arquivos
 
-▫️ Criar `componentes` de classe em React
+* Criar `componentes` de classe em React
 
-▫️ Criar vários `componentes` a partir de um array
+* Criar vários `componentes` a partir de um array
 
-▫️ Fazer uso de `props` corretamente
+* Fazer uso de `props` corretamente
 
-▫️ Fazer uso `Prop Types` para validar como props de um componente
-<br>
+* Fazer uso `Prop Types` para validar como props de um componente
 
 ## Instalação:
 Para rodar a aplicação em sua maquina.
